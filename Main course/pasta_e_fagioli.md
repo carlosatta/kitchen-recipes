@@ -1,6 +1,6 @@
 # Pasta e fagioli
 
-**\*[Pasta e fagioli](https://en.wikipedia.org/wiki/Pasta_e_fagioli)*** , meaning "pasta and beans", is a traditional italian dish, started as a paesant dish, being composed of inexpensive ingredients.
+**[Pasta e fagioli](https://en.wikipedia.org/wiki/Pasta_e_fagioli)** , meaning "pasta and beans", is a traditional italian dish, started as a paesant dish, being composed of inexpensive ingredients.
 
 ## Ingredients
 
@@ -40,5 +40,5 @@ When the pasta is ready and creamy, turn off the fire, check the salt and add so
 
 The dish is ready.
 
-![20171207_130101](/Users/Satta/Desktop/kitchen-recipes/assets/20171207_130101.jpg)
+![20171207_130101](../assets/20171207_130101.jpg)
 
