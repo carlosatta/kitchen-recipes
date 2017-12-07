@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-Ingredient for about 4 peoples:
+Ingredients for about 4 peoples:
 
 - Salt
 - Half onion
